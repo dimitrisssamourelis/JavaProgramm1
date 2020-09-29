@@ -1,0 +1,41 @@
+>java Database toy.txt
+----
+Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+----
+Conference:KDD
+Papers:
+        "Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+        "Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+----
+Researcher:Clark Kent
+Papers:
+        "Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+        "Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+----
+Researcher:Bruce Wayne
+Papers:
+        "Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+----
+Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+----
+Researcher:Peter Parker
+Papers:
+        "Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+        "Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+----
+Paper:Communication theory applications
+Authors:Bruce Lee,Peter Parker,
+Conference:SODA 2017
+----
+Conference:SODA
+Papers:
+        "Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+----
+Researcher:Bruce Lee
+Papers:
+        "Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+----

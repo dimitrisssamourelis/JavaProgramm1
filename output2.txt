@@ -1,0 +1,294 @@
+>java Index toy.txt
+Token:data:
+1. Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+
+2. Researcher:Peter Parker
+Papers:
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+3. Researcher:Clark Kent
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+
+4. Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+
+5. Researcher:Bruce Wayne
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+
+----
+Token:kdd:
+1. Conference:KDD
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+
+2. Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+
+3. Researcher:Peter Parker
+Papers:
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+4. Researcher:Clark Kent
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+
+5. Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+
+6. Researcher:Bruce Wayne
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+
+----
+Token:mining:
+1. Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+
+2. Researcher:Peter Parker
+Papers:
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+3. Researcher:Clark Kent
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+
+4. Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+
+5. Researcher:Bruce Wayne
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+
+----
+Token:soda:
+1. Paper:Communication theory applications
+Authors:Bruce Lee,Peter Parker,
+Conference:SODA 2017
+
+2. Researcher:Peter Parker
+Papers:
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+3. Researcher:Bruce Lee
+Papers:
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+4. Conference:SODA
+Papers:
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+----
+Token:lee:
+1. Paper:Communication theory applications
+Authors:Bruce Lee,Peter Parker,
+Conference:SODA 2017
+
+2. Researcher:Bruce Lee
+Papers:
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+----
+Token:2018:
+1. Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+
+----
+Token:kent:
+1. Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+
+2. Researcher:Clark Kent
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+
+3. Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+
+----
+Token:2017:
+1. Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+
+2. Paper:Communication theory applications
+Authors:Bruce Lee,Peter Parker,
+Conference:SODA 2017
+
+----
+Token:clark:
+1. Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+
+2. Researcher:Clark Kent
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+
+3. Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+
+----
+Token:peter:
+1. Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+
+2. Paper:Communication theory applications
+Authors:Bruce Lee,Peter Parker,
+Conference:SODA 2017
+
+3. Researcher:Peter Parker
+Papers:
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+----
+Token:of:
+1. Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+
+2. Researcher:Peter Parker
+Papers:
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+3. Researcher:Clark Kent
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+
+----
+Token:wayne:
+1. Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+
+2. Researcher:Bruce Wayne
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+
+----
+Token:parker:
+1. Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+
+2. Paper:Communication theory applications
+Authors:Bruce Lee,Peter Parker,
+Conference:SODA 2017
+
+3. Researcher:Peter Parker
+Papers:
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+----
+Token:communication:
+1. Paper:Communication theory applications
+Authors:Bruce Lee,Peter Parker,
+Conference:SODA 2017
+
+2. Researcher:Peter Parker
+Papers:
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+3. Researcher:Bruce Lee
+Papers:
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+----
+Token:bruce:
+1. Paper:Communication theory applications
+Authors:Bruce Lee,Peter Parker,
+Conference:SODA 2017
+
+2. Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+
+3. Researcher:Bruce Lee
+Papers:
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+4. Researcher:Bruce Wayne
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+
+----
+Token:theory:
+1. Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+
+2. Paper:Communication theory applications
+Authors:Bruce Lee,Peter Parker,
+Conference:SODA 2017
+
+3. Researcher:Peter Parker
+Papers:
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+4. Researcher:Clark Kent
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+
+5. Researcher:Bruce Lee
+Papers:
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+----
+Token:applications:
+1. Paper:Communication theory applications
+Authors:Bruce Lee,Peter Parker,
+Conference:SODA 2017
+
+2. Researcher:Peter Parker
+Papers:
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+3. Researcher:Clark Kent
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+	"Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+
+4. Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+
+5. Researcher:Bruce Lee
+Papers:
+	"Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+
+6. Researcher:Bruce Wayne
+Papers:
+	"Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+
+----

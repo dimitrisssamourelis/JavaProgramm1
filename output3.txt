@@ -1,0 +1,115 @@
+>java SearchEngine toy2.txt
+***Query:data mining
+------
+Result 1:(Score:4.0)
+Researcher:Clark Kent
+Papers:
+        "Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+        "Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+------
+Result 2:(Score:2.0)
+Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+------
+Result 3:(Score:2.0)
+Researcher:Peter Parker
+Papers:
+        "Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+        "Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+------
+Result 4:(Score:2.0)
+Paper:Data Mining and Complexity Theory
+Authors:Tony Stark,
+Conference:STOCK 2015
+------
+Result 5:(Score:2.0)
+Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+------
+Result 6:(Score:2.0)
+Researcher:Bruce Wayne
+Papers:
+        "Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+------
+Result 7:(Score:2.0)
+Researcher:Tony Stark
+Papers:
+        "Data Mining and Complexity Theory". Tony Stark, STOCK 2015
+------
+***Query:peter theory
+------
+Result 1:(Score:3.0)
+Researcher:Peter Parker
+Papers:
+        "Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+        "Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+------
+Result 2:(Score:2.0)
+Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+------
+Result 3:(Score:2.0)
+Researcher:Peter Pan
+Papers:
+        "Complexity Theory". Peter Pan, STOCK 2015
+------
+Result 4:(Score:2.0)
+Paper:Communication theory applications
+Authors:Bruce Lee,Peter Parker,
+Conference:SODA 2017
+------
+Result 5:(Score:2.0)
+Paper:Complexity Theory
+Authors:Peter Pan,
+Conference:STOCK 2015
+------
+***Query:complexity theory 2015
+------
+Result 1:(Score:53.0)
+Paper:Complexity Theory
+Authors:Peter Pan,
+Conference:STOCK 2015
+------
+Result 2:(Score:3.0)
+Paper:Data Mining and Complexity Theory
+Authors:Tony Stark,
+Conference:STOCK 2015
+------
+***Query:kdd
+------
+Result 1:(Score:101.0)
+Conference:KDD
+Papers:
+        "Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+        "Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+------
+Result 2:(Score:2.0)
+Paper:Theory of data mining
+Authors:Clark Kent,Peter Parker,
+Conference:KDD 2017
+------
+Result 3:(Score:2.0)
+Researcher:Clark Kent
+Papers:
+        "Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+        "Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+------
+Result 4:(Score:2.0)
+Paper:Data mining applications
+Authors:Clark Kent,Bruce Wayne,
+Conference:KDD 2018
+------
+Result 5:(Score:1.0)
+Researcher:Peter Parker
+Papers:
+        "Theory of data mining". Clark Kent,Peter Parker, KDD 2017
+        "Communication theory applications". Bruce Lee,Peter Parker, SODA 2017
+------
+Result 6:(Score:1.0)
+Researcher:Bruce Wayne
+Papers:
+        "Data mining applications". Clark Kent,Bruce Wayne, KDD 2018
+------
